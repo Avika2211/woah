@@ -47,11 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Hi! I'm Ananya, a computer science student at the University of Waterloo 
-        with a deep passion for technology and innovation. I thrive on tackling complex 
-        problems and building scalable, efficient solutions. Whether it's exploring emerging 
-        technologies, mastering advanced algorithms, or optimizing code for real-world applications, 
-        I’m always eager to learn and grow.
+        Hi! I'm Avika Joshi, a B.Tech student at Delhi Technological University.
+I'm passionate about AI, Climate Resilience, and Quantum Computing.
+I'm a Harvard HPAIR Impact Challenge winner and a Climate Champion with UNICEF.
+I'm driven by innovation, community impact, and a deep love for classical dance.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
